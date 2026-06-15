@@ -28,3 +28,14 @@ body {
   border: 1px solid #333;
   text-decoration: none;
 }
+
+.speakers { margin-top: 12px; }
+
+.speaker {
+  display: inline-block;
+  border: 1px solid #bbb;
+  padding: 4px 8px;
+  margin-right: 6px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+}
