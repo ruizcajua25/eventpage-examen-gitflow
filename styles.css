@@ -1,0 +1,30 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+}
+
+.hero {
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 14px;
+  margin: 12px 0;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 12px;
+  border: 1px solid #333;
+  text-decoration: none;
+}
